@@ -1,0 +1,11 @@
+{
+  "title": "Namra Kapadia — B.Tech CSE Student",
+  "description": "Namra Kapadia is a B.Tech CSE student at GLS University interested in C++, Java, Python and web development.",
+  "robots": {
+    "index": true
+  },
+  "accessibility": {
+    "addBypassLinks": true,
+    "ignoreReducedMotion": false
+  }
+}
