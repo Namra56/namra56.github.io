@@ -11,6 +11,7 @@ The workflow in `.github/workflows/deploy-pages.yml` builds and deploys the port
 5. Push to `main` or run **Deploy portfolio to GitHub Pages** from the Actions tab.
 
 For the `Namra56.github.io` repository, the workflow automatically uses `/` as the Vite base path and publishes to `https://namra56.github.io/`.
+For a normal project repository, the workflow automatically builds with `/<repository-name>/` as the Vite base path. For a repository named `<username>.github.io`, it uses `/`.
 
 ## Custom domain
 
