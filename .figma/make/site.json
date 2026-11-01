@@ -1,0 +1,10 @@
+{
+  "description": "Explore Namra Kapadia’s portfolio of AI and full-stack projects, skills, writing, and experience, with case studies and contact options for collaborators and recruiters.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
